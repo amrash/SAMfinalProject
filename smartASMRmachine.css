@@ -5,15 +5,6 @@ text-align: left;
 margin-top: 0;
 margin-bottom: 0;
 }
-h2{
-    color:black;
-font-size: 50px;
-font-family:sans-serif;
-text-align: center;
-margin-top: 0;
-margin-bottom: 0;
-}
-
     hr { 
     display: block;
     margin-top: 0.5em;
@@ -23,7 +14,21 @@ margin-bottom: 0;
     border-style: solid;
     border-width: 10px;
 }  
- hr { 
+h2{color:black;
+font-size: 20px;
+font-family:sans-serif;
+text-align: left;
+margin-top: 0;
+margin-bottom: 0;
+}
+p{color:#f548cd;
+font-size: 20px;
+font-family:sans-serif;
+text-align: left;
+margin-top: 0;
+margin-bottom: 0;
+}
+hr { 
     display: block;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
